@@ -1,0 +1,30 @@
+\documentclass[a5paper,11pt]{article}
+\usepackage[english, dutch]{babel}
+% Note: the last language is the default at the beginning.
+\usepackage{color}
+%\author{Andr\’e Heck\\
+%AMSTEL Institute}
+\title{A Sample Document in \LaTeXe}
+\date{}
+\begin{document}
+\maketitle
+\begin{abstract}
+Dit is een voorbeeld van een korte Nederlandstalige tekst met
+enkele Engelstalige fragmenten. Zie ook hoofdstuk 9 van
+\emph{The \LaTeX\ Companion} \cite{GMS94}.
+\end{abstract}
+\tableofcontents
+\section{Begin van het artikel}
+We laten het eigenlijke artikel beginnen met een
+\textcolor{green}{Nederlandstalige} sectie \ldots
+\selectlanguage{english} % we choose the English language
+\section{End of the article}
+\ldots\ and finally, the article ends for some very
+strange reasons with an English section.
+\selectlanguage{dutch} % terug naar Nederlandstalige tekst
+\begin{thebibliography}{99}
+\bibitem{GMS94}
+M.~Goossens, F.~Mittelbach, A.~Samarin. \emph{The \LaTeX\ Companion},
+Addison-Wesley (1994), ISBN~0-201-54199-8.
+\end{thebibliography}
+\end{document}
