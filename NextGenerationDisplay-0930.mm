@@ -272,6 +272,8 @@
 <node CREATED="1597715143811" ID="ID_927798515" MODIFIED="1597715149605" TEXT="https://www.kguttag.com/">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1610017017661" ID="ID_1072878547" MODIFIED="1610017021386" TEXT="https://www.quora.com/profile/Sid-Hazra"/>
+<node CREATED="1610017047368" ID="ID_512972909" MODIFIED="1610017051276" TEXT="https://www.zhihu.com/question/40099190/answer/1323866893"/>
 </node>
 <node CREATED="1592963522547" ID="ID_1956502235" MODIFIED="1592963525568" POSITION="left" TEXT="&#x5168;&#x606f;&#x6280;&#x672f;"/>
 </node>
