@@ -11,19 +11,19 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1592963484755" ID="ID_931970435" MODIFIED="1592964256157" POSITION="right">
+<node CREATED="1592963484755" FOLDED="true" ID="ID_931970435" MODIFIED="1663897169896" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font size="5" face="&#x5b8b;&#x4f53;">&#20809;&#26426;&#31995;&#32479;</font>
+      <font size="4" face="Times New Roman" color="#3300ff"><b>&#20809;&#26426;&#31995;&#32479;</b></font>
     </p>
   </body>
 </html></richcontent>
 <node CREATED="1592963540265" ID="ID_1871838608" MODIFIED="1592963548533" TEXT="Hololens2"/>
-<node CREATED="1592964118712" ID="ID_1900921732" MODIFIED="1592964238469">
+<node CREATED="1592964118712" FOLDED="true" ID="ID_1900921732" MODIFIED="1663897168545">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -37,7 +37,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1595382980566" ID="ID_1169199962" MODIFIED="1595383031151">
+<node CREATED="1595382980566" FOLDED="true" ID="ID_1169199962" MODIFIED="1663897167747">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -48,7 +48,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1596334195493" ID="ID_1046572278" MODIFIED="1596334303379">
+<node CREATED="1596334195493" FOLDED="true" ID="ID_1046572278" MODIFIED="1663897166905">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -70,7 +70,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1596334269153" ID="ID_786942698" MODIFIED="1596334290371">
+<node CREATED="1596334269153" FOLDED="true" ID="ID_786942698" MODIFIED="1663897165169">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -150,7 +150,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1596358872600" ID="ID_241927573" MODIFIED="1596358906750">
+<node CREATED="1596358872600" FOLDED="true" ID="ID_241927573" MODIFIED="1663897162905">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -182,7 +182,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1596357475296" ID="ID_768815684" MODIFIED="1596357508680">
+<node CREATED="1596357475296" FOLDED="true" ID="ID_768815684" MODIFIED="1663897160881">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -193,7 +193,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1596357566122" ID="ID_572795191" MODIFIED="1596357569546" TEXT="OV">
+<node CREATED="1596357566122" FOLDED="true" ID="ID_572795191" MODIFIED="1663897159593" TEXT="OV">
 <node CREATED="1596357712760" ID="ID_456436919" MODIFIED="1596357720447">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -205,7 +205,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1596357802405" ID="ID_803349980" MODIFIED="1596357864443">
+<node CREATED="1596357802405" FOLDED="true" ID="ID_803349980" MODIFIED="1663897157633">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -239,12 +239,93 @@
 </node>
 </node>
 </node>
-<node CREATED="1592964130594" ID="ID_572813486" MODIFIED="1592964133927" TEXT="FLCOS&#x5149;&#x673a;"/>
-<node CREATED="1592964137950" ID="ID_1409315038" MODIFIED="1592964140965" TEXT="DLP &#x5149;&#x673a;"/>
-<node CREATED="1592964144669" ID="ID_138026738" MODIFIED="1592964147471" TEXT="SBL &#x5149;&#x673a;"/>
+<node CREATED="1592964130594" ID="ID_572813486" MODIFIED="1613990632490">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>FLCOS&#20809;&#26426;</b>
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1592963497080" ID="ID_1535897177" MODIFIED="1592963502797" POSITION="left" TEXT="&#x5149;&#x5b66;&#x955c;&#x7247;&#x7cfb;&#x7edf;"/>
-<node CREATED="1592963506794" ID="ID_837416884" MODIFIED="1592963518187" POSITION="right" TEXT="AR&#x773c;&#x955c;&#x8bc4;&#x4ef7;&#x53c2;&#x6570;">
+<node CREATED="1592964137950" ID="ID_1409315038" MODIFIED="1613990623886">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>DLP &#20809;&#26426;</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1592964144669" ID="ID_138026738" MODIFIED="1613990614603">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>SBL &#20809;&#26426;</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1613990568457" ID="ID_1559182054" MODIFIED="1613990607382">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Micro LED</b>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1592963497080" FOLDED="true" ID="ID_1535897177" MODIFIED="1652259806869" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="4" face="Times New Roman" color="#3300ff"><b>&#20809;&#23398;&#38236;&#29255;&#31995;&#32479;</b></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1632710335256" ID="ID_407101946" MODIFIED="1632710339507" TEXT="BirdBath"/>
+<node CREATED="1632710346154" ID="ID_1302619175" MODIFIED="1632710350380" TEXT="&#x66f2;&#x9762;&#x53cd;&#x5c04;"/>
+<node CREATED="1632710353904" ID="ID_596199161" MODIFIED="1632710357171" TEXT="&#x5149;&#x6ce2;&#x5bfc;"/>
+<node CREATED="1632710370335" ID="ID_1579319097" MODIFIED="1632710378446">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#21442;&#32771;&#32593;&#22336;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1592963506794" FOLDED="true" ID="ID_837416884" MODIFIED="1652259786215" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="4" face="Times New Roman" color="#3300ff"><b>AR&#30524;&#38236;&#35780;&#20215;</b></font>
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1596408689148" ID="ID_1336801228" MODIFIED="1596408703147">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -274,7 +355,112 @@
 </node>
 <node CREATED="1610017017661" ID="ID_1072878547" MODIFIED="1610017021386" TEXT="https://www.quora.com/profile/Sid-Hazra"/>
 <node CREATED="1610017047368" ID="ID_512972909" MODIFIED="1610017051276" TEXT="https://www.zhihu.com/question/40099190/answer/1323866893"/>
+<node CREATED="1613993872735" ID="ID_840773372" MODIFIED="1613993886055" TEXT="&#x773c;&#x775b;&#x7684;&#x805a;&#x7126;&#x548c;&#x4f1a;&#x805a;"/>
+<node CREATED="1613994604519" ID="ID_1921288083" MODIFIED="1613994607136" TEXT="https://blog.csdn.net/suiyuemeng/article/details/88885617"/>
+<node CREATED="1613994939114" ID="ID_665708137" MODIFIED="1613994943301" TEXT="https://pmlpml.github.io/unity3d-learning/12-AR-and-MR.html"/>
 </node>
-<node CREATED="1592963522547" ID="ID_1956502235" MODIFIED="1592963525568" POSITION="left" TEXT="&#x5168;&#x606f;&#x6280;&#x672f;"/>
+<node CREATED="1592963522547" ID="ID_1956502235" MODIFIED="1652259824974" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="4" face="Times New Roman" color="#3300ff"><b>&#20840;&#24687;&#25216;&#26415;</b></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650519491280" FOLDED="true" ID="ID_1822993102" MODIFIED="1652259534876" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff" size="4"><b>Mars&#35828;&#20809;&#22330; </b></font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#003333" size="3">https://zhuanlan.zhihu.com/p/47492390</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1650525049661" FOLDED="true" ID="ID_1799863786" MODIFIED="1652259531388">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000" face="Times New Roman" size="4"><b>&#20840;&#20809;&#20989;&#25968;(Plenoptic Function)</b></font>
+    </p>
+    <p>
+      &#20351;&#29992;(x, y, z)&#34920;&#31034;&#20154;&#30524;&#22312;&#31354;&#38388;&#20013;&#30340;&#20301;&#32622;&#65292;&#20351;&#29992;(&#952;, &#966;)&#34920;&#31034;&#36827;&#20837;&#20154;&#30524;&#20809;&#32447;&#30340;
+    </p>
+    <p>
+      &#27700;&#24179;&#22841;&#35282;&#21644;&#22402;&#30452;&#22841;&#35282;&#65292;&#20351;&#29992;&#27874;&#38271;&#955;&#34920;&#31034;&#20809;&#32447;&#30340;&#39068;&#33394;&#20142;&#24230;&#65292;&#21152;&#19978;&#19968;&#20010;&#26102;&#38388;t&#30340;&#32500;&#24230;&#65292;
+    </p>
+    <p>
+      &#37027;&#20040;&#20840;&#20809;&#20989;&#25968;&#23601;&#26159;
+    </p>
+    <p>
+      P(x, y, z, &#952;, &#934;, &#955;, t)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1650525908871" FOLDED="true" ID="ID_293462867" MODIFIED="1652259530148">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font face="Times New Roman" size="4"><b>&#20809;&#22330;4D&#21442;&#25968;&#21270; </b></font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font face="Times New Roman" size="4">&#32654;&#22269;&#26031;&#22374;&#31119;&#22823;&#23398;&#30340;Marc Levoy&#23558;&#20840;&#20809;&#20989;&#25968;&#31616;&#21270;&#38477;&#32500;&#65292;&#25552;&#20986;&#65288;u,v,s,t&#65289;4D&#20809;&#22330;&#27169;&#22411;[9]&#12290; </font>
+    </p>
+    <p>
+      <font face="Times New Roman" size="4">Levoy&#20551;&#35774;&#20102;&#20004;&#20010;&#19981;&#20849;&#38754;&#30340;&#24179;&#38754;&#65288;u,v&#65289;&#21644;&#65288;s,t&#65289;&#65292;&#22914;&#26524;&#19968;&#26465;&#20809;&#32447;&#19982;&#36825;&#20004;&#20010;&#24179;&#38754;&#21508;&#26377;&#19968;&#20010;&#20132;&#28857;&#65292; </font>
+    </p>
+    <p>
+      <font face="Times New Roman" size="4">&#21017;&#35813;&#20809;&#32447;&#21487;&#20197;&#29992;&#36825;&#20004;&#20010;&#20132;&#28857;&#21807;&#19968;&#34920;&#31034;</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1650526595223" ID="ID_1696589458" MODIFIED="1650526607767">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="picture/4D&#x5e7f;&#x573a;&#x6a21;&#x578b;.jpg" />
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1652259840052" FOLDED="true" ID="ID_1297206551" MODIFIED="1663897171706" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="4" face="Times New Roman" color="#3300ff"><b>OpenXR&#26631;&#20934;&#23398;&#20064;</b></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1652260308612" FOLDED="true" ID="ID_1278392287" MODIFIED="1663897154036" TEXT="&#x76f8;&#x5173;&#x7f51;&#x5740;&#x548c;SDK">
+<node CREATED="1652260318180" ID="ID_356752605" MODIFIED="1652260320204" TEXT="https://github.com/KhronosGroup/OpenXR-SDK-Source/"/>
+</node>
+</node>
 </node>
 </map>
